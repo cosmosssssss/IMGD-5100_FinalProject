@@ -107,4 +107,5 @@ Using a-marker, all staffs will disappear if the marker disappear or cannot be d
 By opening the link I send and then scanning the "Hiro" marker, people could see my AR project with their phone or computer. After the first show, I changed playing background music to playing video. It turns out people prefer video playback, which seems more intuitive. And for more fun, I tried to add more animation and explore the particle effects. 
 # Project Link
 https://colossal-profuse-behavior.glitch.me  
-Try my project by showing a "Hiro" marker in front of the camera.
+Try my project by showing a "Hiro" marker in front of the camera. 
+(I think try it in person is better than watching the video ^ ^)
