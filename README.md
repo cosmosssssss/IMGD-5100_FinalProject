@@ -103,6 +103,8 @@ Then you can implement a snow effect or a default effect with some animation.
 ```
 ## 5. Different between a-maker and a-marker-camera
 Using a-marker, all staffs will disappear if the marker disappear or cannot be detected clearly. But using a-marker-camera, all things will stay on the screen as long as the marker was detected once which means it is more "stable" than using a-marker.  But when using a-marker-camera, I cannot play a video or a music. And this will be my future work：Playing video when using a-marker-camera.
+# Evaluation
+By opening the link I send and then scanning the "Hiro" marker, people could see my AR project with their phone or computer. After the first show, I changed playing background music to playing video. It turns out people prefer video playback, which seems more intuitive. And for more fun, I tried to add more animation and explore the particle effects. 
 # Project Link
 https://colossal-profuse-behavior.glitch.me  
 Try my project by showing a "Hiro" marker in front of the camera.
